@@ -15,3 +15,5 @@ def ask_password(password):
                 print("net popitka")
                 break
 print(ask_password(password))
+jhvkghcvkj
+khvjgvjk.
